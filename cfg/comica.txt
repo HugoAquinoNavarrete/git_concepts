@@ -1,2 +1,3 @@
 nombre,comica,edad
 Hugo,Thundercats,10
+Hugo,El pajaro loco,8
