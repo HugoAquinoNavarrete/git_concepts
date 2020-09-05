@@ -1,0 +1,2 @@
+nombre,comica,edad
+Hugo,Thundercats,10
