@@ -2,3 +2,4 @@ nombre,comica,edad
 Hugo,Thundercats,10
 Hugo,El pajaro loco,8
 Andrea,Backyardigans,5
+André F.,Robotech,5
