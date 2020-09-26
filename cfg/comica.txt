@@ -3,8 +3,12 @@ Hugo,Thundercats,10
 Hugo,El pajaro loco,8
 Andrea,Backyardigans,5
 <<<<<<< HEAD
+<<<<<<< HEAD
 Bet, The jetsons
 =======
 Betzy The Jetsons
 Maru The Flintstones
 >>>>>>> origin/mnatest
+=======
+André F.,Robotech,5
+>>>>>>> origin/test
