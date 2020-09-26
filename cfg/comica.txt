@@ -5,4 +5,5 @@ Andrea,Backyardigans,5
 Betzy,The Jetsons,9
 Maru,The Flintstones,7
 André F.,Robotech,5
+Juan, el gato felix, 12
 
